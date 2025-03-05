@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Private Esp"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
